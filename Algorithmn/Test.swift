@@ -1,5 +1,5 @@
 //
-//  main.swift
+//  Test.swift
 //  Algorithmn
 //
 //  Created by Yejin Hong on 2021/07/16.
@@ -7,5 +7,7 @@
 
 import Foundation
 
-let x = Test()
-print(x)
+public func Test() -> String {
+    return "1"
+}
+
