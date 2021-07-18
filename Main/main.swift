@@ -7,5 +7,4 @@
 
 import Foundation
 
-let x = Test()
-print(x)
+
