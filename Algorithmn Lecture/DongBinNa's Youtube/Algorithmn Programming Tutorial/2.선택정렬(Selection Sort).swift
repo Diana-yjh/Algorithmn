@@ -9,13 +9,13 @@
 
 import Foundation
 
-//MARK: - 강의보고 따라친 것
+//MARK: - 강의
 public func selectionSort(){
     var min: Int = 0
     var index: Int = 0
     var temp: Int = 0
     var array: [Int] = [1, 10, 5, 8, 7, 6, 4, 3, 2, 9]
-    for i in 0...9{
+    for i in 0...9 {
         min = 999;
         var j = i
         while j < 10 {
@@ -38,7 +38,7 @@ public func selectionSort2(){
     var index: Int = 0
     var array: [Int] = [1, 10, 5, 8, 7, 6, 4, 3, 2, 9]
     
-    for i in 0...9 {
+    for i in 0...array.count - 1 {
         min = 999
         var j = i
         while j < 10 {
