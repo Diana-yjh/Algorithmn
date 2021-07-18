@@ -7,4 +7,4 @@
 
 import Foundation
 
-bubbleSort()
+selectionSort2()
