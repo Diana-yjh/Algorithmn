@@ -12,6 +12,7 @@
 		8B2E6C0626A40EDE00321A47 /* 2. 선택정렬(Selection Sort).swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B2E6C0526A40EDE00321A47 /* 2. 선택정렬(Selection Sort).swift */; };
 		8B2E6C0826A41D0E00321A47 /* 3. 버블정렬(Bubble Sort).swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B2E6C0726A41D0E00321A47 /* 3. 버블정렬(Bubble Sort).swift */; };
 		8B2E6C0A26A4662F00321A47 /* 4. 삽입정렬(Insertion Sort).swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B2E6C0926A4662F00321A47 /* 4. 삽입정렬(Insertion Sort).swift */; };
+		8B2E6C0C26A4831D00321A47 /* 5. 퀵정렬(Quick Sort).swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B2E6C0B26A4831D00321A47 /* 5. 퀵정렬(Quick Sort).swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -33,6 +34,7 @@
 		8B2E6C0526A40EDE00321A47 /* 2. 선택정렬(Selection Sort).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2. 선택정렬(Selection Sort).swift"; sourceTree = "<group>"; };
 		8B2E6C0726A41D0E00321A47 /* 3. 버블정렬(Bubble Sort).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "3. 버블정렬(Bubble Sort).swift"; sourceTree = "<group>"; };
 		8B2E6C0926A4662F00321A47 /* 4. 삽입정렬(Insertion Sort).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "4. 삽입정렬(Insertion Sort).swift"; sourceTree = "<group>"; };
+		8B2E6C0B26A4831D00321A47 /* 5. 퀵정렬(Quick Sort).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "5. 퀵정렬(Quick Sort).swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,6 +120,7 @@
 				8B2E6C0526A40EDE00321A47 /* 2. 선택정렬(Selection Sort).swift */,
 				8B2E6C0726A41D0E00321A47 /* 3. 버블정렬(Bubble Sort).swift */,
 				8B2E6C0926A4662F00321A47 /* 4. 삽입정렬(Insertion Sort).swift */,
+				8B2E6C0B26A4831D00321A47 /* 5. 퀵정렬(Quick Sort).swift */,
 			);
 			path = "Algorithmn Programming Tutorial";
 			sourceTree = "<group>";
@@ -179,6 +182,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8B2E6C0C26A4831D00321A47 /* 5. 퀵정렬(Quick Sort).swift in Sources */,
 				8B2E6C0826A41D0E00321A47 /* 3. 버블정렬(Bubble Sort).swift in Sources */,
 				8B2E6BF526A16A4000321A47 /* main.swift in Sources */,
 				8B2E6C0626A40EDE00321A47 /* 2. 선택정렬(Selection Sort).swift in Sources */,
