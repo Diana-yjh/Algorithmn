@@ -9,7 +9,7 @@
 
 import Foundation
 
-//MARK: - 강의
+//MARK: - 강의(C 기준)
 public func selectionSort(){
     var min: Int = 0
     var index: Int = 0
@@ -32,7 +32,7 @@ public func selectionSort(){
     print(array)
 }
 
-//MARK: - 내가 구현한 것
+//MARK: - 내가 구현한 것(C 기준)
 public func selectionSort2(){
     var min: Int = 0
     var index: Int = 0
@@ -53,3 +53,4 @@ public func selectionSort2(){
     }
     print(array)
 }
+

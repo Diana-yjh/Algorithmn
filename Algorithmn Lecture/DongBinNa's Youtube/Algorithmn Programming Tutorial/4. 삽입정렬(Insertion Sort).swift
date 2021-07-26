@@ -9,7 +9,7 @@
 
 import Foundation
 
-//MARK: - 강의
+//MARK: - 강의(C 기준)
 public func insertionSort(){
     var temp: Int = 0
     var array: [Int] = [1, 10, 5, 8, 7, 6, 4, 3, 2, 9]
