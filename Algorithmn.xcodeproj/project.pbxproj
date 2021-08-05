@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		8B0C488626AEF6A700BAFAD9 /* 8. 병합정렬(Merge Sort).swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B0C488526AEF6A700BAFAD9 /* 8. 병합정렬(Merge Sort).swift */; };
+		8B0C48C226B82D1E00BAFAD9 /* 11. 힙정렬(Heap Sort).swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B0C48C126B82D1E00BAFAD9 /* 11. 힙정렬(Heap Sort).swift */; };
 		8B2E6BF526A16A4000321A47 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B2E6BF426A16A4000321A47 /* main.swift */; };
 		8B2E6C0126A2D48100321A47 /* no.1991_트리순회.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B2E6C0026A2D48100321A47 /* no.1991_트리순회.swift */; };
 		8B2E6C0626A40EDE00321A47 /* 2. 선택정렬(Selection Sort).swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B2E6C0526A40EDE00321A47 /* 2. 선택정렬(Selection Sort).swift */; };
@@ -30,6 +31,7 @@
 
 /* Begin PBXFileReference section */
 		8B0C488526AEF6A700BAFAD9 /* 8. 병합정렬(Merge Sort).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "8. 병합정렬(Merge Sort).swift"; sourceTree = "<group>"; };
+		8B0C48C126B82D1E00BAFAD9 /* 11. 힙정렬(Heap Sort).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "11. 힙정렬(Heap Sort).swift"; sourceTree = "<group>"; };
 		8B2E6BF126A16A4000321A47 /* Algorithmn */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithmn; sourceTree = BUILT_PRODUCTS_DIR; };
 		8B2E6BF426A16A4000321A47 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		8B2E6C0026A2D48100321A47 /* no.1991_트리순회.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "no.1991_트리순회.swift"; sourceTree = "<group>"; };
@@ -124,6 +126,7 @@
 				8B2E6C0926A4662F00321A47 /* 4. 삽입정렬(Insertion Sort).swift */,
 				8B2E6C0B26A4831D00321A47 /* 5. 퀵정렬(Quick Sort).swift */,
 				8B0C488526AEF6A700BAFAD9 /* 8. 병합정렬(Merge Sort).swift */,
+				8B0C48C126B82D1E00BAFAD9 /* 11. 힙정렬(Heap Sort).swift */,
 			);
 			path = "Algorithmn Programming Tutorial";
 			sourceTree = "<group>";
@@ -192,6 +195,7 @@
 				8B2E6C0626A40EDE00321A47 /* 2. 선택정렬(Selection Sort).swift in Sources */,
 				8B2E6C0126A2D48100321A47 /* no.1991_트리순회.swift in Sources */,
 				8B2E6C0A26A4662F00321A47 /* 4. 삽입정렬(Insertion Sort).swift in Sources */,
+				8B0C48C226B82D1E00BAFAD9 /* 11. 힙정렬(Heap Sort).swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
