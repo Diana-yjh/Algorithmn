@@ -6,6 +6,10 @@
 //
 
 #include <iostream>
+using namespace std;
 
+// call function
+
+// use function
 int main(){
 }
