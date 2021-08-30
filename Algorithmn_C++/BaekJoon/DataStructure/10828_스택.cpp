@@ -6,3 +6,10 @@
 //
 
 #include <stdio.h>
+#include <stack>
+
+using namespace std;
+
+void stack(int input){
+    
+}
