@@ -9,7 +9,16 @@
 using namespace std;
 
 // call function
+void stack(string input);
 
 // use function
 int main(){
+    int x;
+    cin >> x;
+    
+    for(int i = 0; i < x; i++){
+        string input;
+        cin >> input;
+        stack(input);
+    }
 }
